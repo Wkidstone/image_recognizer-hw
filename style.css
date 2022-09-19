@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+    background-position: center;
+    background-color: greenyellow;
+}
+#camera{
+    border: 2px solid purple;
+    width: 350px;
+    height: 350px;
+}
+p{
+    font-weight: bolder;
+    color: blueviolet;
+}
+b{
+    font-weight: bolder;
+    color:blue;
+}
